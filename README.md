@@ -28,3 +28,13 @@ We have an array of size N. Find the missing elements in the array in a range
 
 Input : [1,3,5,7,10]
 Output: [2,4,6,8,9]
+
+
+Problem4:
+Find product of list except itself.
+
+Description
+We have an array of size N. Find the product of elements in the array except the item itself
+
+Input : [1, 2, 3, 4, 5]
+Output: [120, 60, 40, 30, 24]
